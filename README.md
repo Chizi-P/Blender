@@ -10,7 +10,7 @@
 
 ## 地球
 
-![earth](https://github.com/Chizi-P/Blender/blob/master/rendering/image/earth.png?raw=true)
+![earth](https://github.com/Chizi-P/Blender/blob/master/rendering/image/earth.png?raw=false)
 
 ![earth](https://github.com/Chizi-P/Blender/blob/master/rendering/image/earth_sk.png?raw=true)
 
@@ -24,7 +24,7 @@
 
 ## 一個很無意義的動畫
 
-![stripe_material](https://github.com/Chizi-P/Blender/blob/master/rendering/video/stripe_material.mp4?raw=false)
+![stripe_material](https://github.com/Chizi-P/Blender/blob/master/rendering/video/stripe_material.mp4)
 
 
 
