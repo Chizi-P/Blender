@@ -2,7 +2,7 @@
 
 一些我用blender建模的渲染圖，純粹是自己天馬行空，和真實物品的物理結構並不一定一致。
 
-這都是自己學習過程中所做的。
+這是我自己學習過程中所做的。
 
 ###### 注意：這頁面可能很吃流量，看到這行的時候應該已經加載完了。
 
@@ -16,7 +16,7 @@
 
 
 
-##霓虹燈—香港
+## 霓虹燈—香港
 
 ![neon_text_HK](https://github.com/Chizi-P/Blender/blob/master/rendering/image/neon_香港.png?raw=true)
 
@@ -24,7 +24,7 @@
 
 ## 一個很無意義的動畫
 
-![stripe_material](https://github.com/Chizi-P/Blender/blob/master/rendering/video/stripe_material.mp4?raw=true)
+![stripe_material](https://github.com/Chizi-P/Blender/blob/master/rendering/video/stripe_material.mp4?raw=false)
 
 
 
