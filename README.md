@@ -24,7 +24,7 @@
 
 ## 一個很無意義的動畫
 
-![earth](https://github.com/Chizi-P/Blender/blob/master/rendering/video/stripe_material.png?raw=true)
+![stripe_material](https://github.com/Chizi-P/Blender/blob/master/rendering/video/stripe_material.mp4?raw=true)
 
 
 
@@ -50,9 +50,9 @@
 
 ## 冰箱
 
-![fridge](https://github.com/Chizi-P/Blender/blob/master/rendering/image/fridge.png?raw=true)
+![fridge](https://github.com/Chizi-P/Blender/blob/master/rendering/image/fridge.jpg?raw=true)
 
-![fridge](https://github.com/Chizi-P/Blender/blob/master/rendering/image/fridge_bk.png?raw=true)
+![fridge](https://github.com/Chizi-P/Blender/blob/master/rendering/image/fridge_bk.jpg?raw=true)
 
 ![fridge](https://github.com/Chizi-P/Blender/blob/master/rendering/image/fridge_k.png?raw=true)
 
