@@ -22,6 +22,12 @@
 
 
 
+## 一個很無意義的動畫
+
+![earth](https://github.com/Chizi-P/Blender/blob/master/rendering/video/stripe_material.png?raw=true)
+
+
+
 ## 籃球
 
 ![basketball](https://github.com/Chizi-P/Blender/blob/master/rendering/image/basketball.png?raw=true)
