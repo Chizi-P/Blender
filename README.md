@@ -22,6 +22,14 @@
 
 
 
+## 復古風扇
+
+![fan](https://github.com/Chizi-P/Blender/blob/master/rendering/image/fan.jpg?raw=true)
+
+![fan](https://github.com/Chizi-P/Blender/blob/master/rendering/image/fan_1.jpg?raw=true)
+
+
+
 ## 籃球
 
 ![basketball](https://github.com/Chizi-P/Blender/blob/master/rendering/image/basketball.png?raw=true)
